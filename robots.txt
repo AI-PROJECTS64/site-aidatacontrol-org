@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 # Descriptive informational site for the AIDataControl.org domain
+Sitemap: https://www.aidatacontrol.org/sitemap.xml
